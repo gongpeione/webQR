@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./der","loc":{"line":3,"column":23}},{"name":"./pem","loc":{"line":4,"column":23}}],"generated":{"js":"var decoders = exports;\n\ndecoders.der = require('./der');\ndecoders.pem = require('./pem');\n"},"hash":"612ab508b66d01d6c6f62bf9ac6bb4c9"}

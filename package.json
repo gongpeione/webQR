@@ -1,0 +1,23 @@
+{
+  "name": "webqr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongpeione/webQR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gongpeione/webQR/issues"
+  },
+  "homepage": "https://github.com/gongpeione/webQR#readme",
+  "dependencies": {
+    "typescript": "^3.5.2",
+    "zbar.wasm": "^1.0.0"
+  }
+}

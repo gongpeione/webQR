@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"module.exports = function xor(a, b) {\n  var len = a.length;\n  var i = -1;\n  while (++i < len) {\n    a[i] ^= b[i];\n  }\n  return a\n};"},"hash":"655a3ba367b97085a5b2ce9d5aa9cf5c"}
